@@ -1,0 +1,36 @@
+
+.footer{
+    color: white;font-size: small;
+    letter-spacing: 8px;
+    margin-bottom:25px;
+}
+.footer-text{
+    color: rgb(166, 166, 214);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footer-options{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ; */
+    font-weight:500 ;
+    font-size: 16px;
+    color: white;
+    width: max-content;
+}
+.footer-icon{
+    background-color: gray;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    border-radius: 8px;
+}
+.footer-icon:hover{
+    background-color:rgba(0, 0, 255, 0.817);
+    color: gray;
+}
+.footer-options:hover{
+    color:skyblue;
+}
